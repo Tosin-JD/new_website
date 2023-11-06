@@ -52,6 +52,11 @@ a{
     font-weight: bold;
 }
 
+.break-email {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
 footer{
     padding: 20px;
     text-align: center;
