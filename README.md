@@ -1,7 +1,3 @@
-# New Web site
-This is a repository to test a web page.
+# My Portfolio
+This repository contains the list of projects that I have done.
 
-
-Basic concept in html and css is explored.
-
-But basically, I just want to show how to host html and css on the web.
